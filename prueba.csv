@@ -1,0 +1,6 @@
+pais,poblacion,indigenas,migrantes,migrantes_ano
+string,number,number,number,number
+Argentina,44938712,250000,350000,2021
+Brasil,213993437,500000,600000,2021
+Chile,19116201,100000,150000,2021
+Colombia,50372424,300000,400000,2021
