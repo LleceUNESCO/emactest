@@ -1,9 +1,0 @@
-idioma,cod_pais,pais,parametro,descripcion,anio_2010,anio_2011,anio_2012,anio_2013,anio_2014,anio_2015,anio_2016,anio_2017,anio_2018,anio_2019,anio_2020
-esp,ec,Ecuador,ed_preescolar,Preescolar,48.04,52.62,56.3,63.89,72.62,72.98,72.98,70.44,66.14,62.98,56.05
-eng,ec,Ecuador,ed_preprimary,Preprimary,48.04,52.62,56.3,63.89,72.62,72.98,72.98,70.44,66.14,62.98,56.05
-esp,ec,Ecuador,ed_primaria,Primaria,92.62,91.99,91.68,91.51,91.35,91.65,91.66,91.64,90.94,0,0
-eng,ec,Ecuador,ed_primary,Primary,92.62,91.99,91.68,91.51,91.35,91.65,91.66,91.64,90.94,0,0
-esp,ec,Ecuador,ed_secundaria,Secundaria,71.81,72.81,76.18,80.14,83.36,84.73,85.92,85.34,84.67,0,0
-eng,ec,Ecuador,ed_secondary,Secondary,71.81,72.81,76.18,80.14,83.36,84.73,85.92,85.34,84.67,0,0
-esp,ec,Ecuador,ed_terciaria,Terciaria,0,0,39.82,40.32,0,44.89,0,0,47.6,47.95,0
-eng,ec,Ecuador,ed_terciary,Terciary,0,0,39.82,40.32,0,44.89,0,0,47.6,47.95,0
