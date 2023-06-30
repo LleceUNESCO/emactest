@@ -1,0 +1,9 @@
+idioma,cod_pais,pais,parametro,1990,1995,2000,2005,2010,2015,2020
+esp,cl,Chile,pobl_migrante_porcentaje,0.8,1.0,1.2,1.7,2.2,3.6,8.6
+esp,co,Colombia,pobl_migrante_porcentaje,0.3,0.3,0.3,0.2,0.3,0.3,3.7
+esp,ec,Ecuador,pobl_migrante_porcentaje,0.8,1.0,1.2,1.4,2.5,2.4,4.4
+esp,uy,Uruguay,pobl_migrante_porcentaje,3.2,2.9,2.7,2.5,2.3,2.3,3.1
+eng,cl,Chile,migr_stock_percentage,0.8,1.0,1.2,1.7,2.2,3.6,8.6
+eng,co,Colombia,migr_stock_percentage,0.3,0.3,0.3,0.2,0.3,0.3,3.7
+eng,ec,Ecuador,migr_stock_percentage,0.8,1.0,1.2,1.4,2.5,2.4,4.4
+eng,uy,Uruguay,migr_stock_percentage,3.2,2.9,2.7,2.5,2.3,2.3,3.1
